@@ -41,7 +41,7 @@ function ContactForm() {
 
   return (
     <>
-      <img src="./src/assets/images/logo.svg" alt="Logo Cocktail Club" />
+      <img src="../images/logo.svg" alt="Logo Cocktail Club" />
       <section className="contact-form-container">
         <h2>Contact us</h2>
         <form onSubmit={handleSubmit}>

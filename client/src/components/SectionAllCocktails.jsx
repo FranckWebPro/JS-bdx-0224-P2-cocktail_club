@@ -8,7 +8,7 @@ function SectionAllCocktails() {
     <section className="allCocktailsSection" id="allCocktails">
       <Link to="/allCocktails" className="allCocktailImg">
         <img
-          src="./src/assets/images/allcocktails.svg"
+          src="./public/images/allcocktails.svg"
           alt="A plate with many cocktails of different colors"
           className="allCocktailImg"
         />
